@@ -15,3 +15,11 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+
+
+// TO DO APP:
+// 1. Create a list of todos using state/hooks
+// 2. Show it on output
+// 3. A section for adding a to do
