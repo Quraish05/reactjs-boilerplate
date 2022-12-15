@@ -5,7 +5,7 @@ import "./scss/base.scss";
 function App() {
   return (
     <>
-      <div>A Basic To-do app</div>
+      <div className="title">Quraish's Boilerplate for ReactJS projects.</div>
     </>
   );
 }
